@@ -42,7 +42,7 @@ This project explores the **relationship between Red Bull consumption and heart 
 
 ### 1. 📊 Heart Rate Distribution – Before Red Bull
 
-![Heart Rate Before](rebull_heart_analysis/Individual%20Changes%20in%20Heart%20Rate%20Before.png)
+![Heart Rate Before](redbull_heart_analysis/Individual%20Changes%20in%20Heart%20Rate%20Before.png)
 
 Shows a left-skewed distribution of heart rates prior to Red Bull consumption.
 
@@ -50,7 +50,7 @@ Shows a left-skewed distribution of heart rates prior to Red Bull consumption.
 
 ### 2. 📊 Before & After Comparison by Age Group and Sex
 
-![Heart Rate Change by Group](rebull_heart_analysis/Change%20in%20Heart%20Rate%20Before%20and%20After%20Consumption.png)
+![Heart Rate Change by Group](redbull_heart_analysis/Change%20in%20Heart%20Rate%20Before%20and%20After%20Consumption.png)
 
 The visual below shows how **heart rate increased** for all subgroups, with a slightly greater effect among **older males**.
 
@@ -58,7 +58,7 @@ The visual below shows how **heart rate increased** for all subgroups, with a sl
 
 ### 3. 🌡️ Heatmap of Heart Rate Differences
 
-![Heart Rate Difference Heatmap](rebull_heart_analysis/Difference%20in%20Heart%20Rates%20After%20Red%20Bull%20by%20Age%20Group%20and%20Gender.png)
+![Heart Rate Difference Heatmap](redbull_heart_analysis/Difference%20in%20Heart%20Rates%20After%20Red%20Bull%20by%20Age%20Group%20and%20Gender.png)
 
 This heatmap summarizes the **average heart rate increase** after Red Bull across age-sex segments. Highest increase observed: **Males aged 46–59**.
 
